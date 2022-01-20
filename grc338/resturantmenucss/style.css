@@ -1,0 +1,48 @@
+/* CSS DOCUMENT */
+
+body{
+	background-color: rgb(245, 245, 245);
+    padding: 3em;
+}
+
+h1{
+    color: rgb(26, 54, 83);
+    margin: 0.5em 2em 0.5em 2em;
+  	font-family: sans-serif;
+    font-style: italic;
+    font-size: 5em;
+}
+
+h2{
+  	color: rgb(52, 91, 131);
+ 	margin: 1em 2em 0.5em 2.5em;
+    font-family: sans-serif;
+    font-size: 2.5em;
+}
+
+h3{
+  	color: rgb(32, 84, 167);
+  	margin: 2em 3em 1em 2em;
+  	font-family: serif;
+    border-bottom: double;
+    font-size: 1.5em;
+}
+
+h4{
+	color: rgb(33, 47, 61);
+}
+
+p{
+	color: rgb(33, 47, 61);
+}
+
+.price{
+	font-family: serif;
+    font-style: italic;
+    font-weight: 250;
+    color: rgb(32, 84, 167);      
+}
+
+ul{
+	list-style: none;
+}
