@@ -1,4 +1,5 @@
 /*CSS DOCUMENT*/
+/*CSS DOCUMENT*/
 
 img {
     width: 100%;
@@ -8,30 +9,33 @@ img {
 
 body{
 	background-color: rgb(245, 245, 245);
+    padding: 1em;
 }
 
 h1 {
     font-family: poppins, sans-serif;
 	font-weight: 500;
 	font-style: bold;
-    padding: 1em;
-    margin: 1em;
+    font-size: 5em;
+    margin: 0em;
 }
 
 h2 {
     font-family: poppins, serif;
 	font-weight: 500;
 	font-style: bold;
-    margin: 1.5em;
-    
+     margin: 0em;
+    padding: 0.5em;
+    font-size: 2.5em;
 }
 
 h3 {
     font-family: poppins, sans-serif;
 	font-weight: 500;
 	font-style: normal;
-    margin: 1em;
+    margin: 2em 3em 1em 2em;
      font-size: 1.5em;
+    border-bottom: double;
 }
 
 h4 {
@@ -44,7 +48,7 @@ h4 {
 p {
 	font-family: poppins, sans-serif;
 	font-weight: 400;
-    font-size: 0.8em;
+    font-size: 1em;
 	font-style: normal;
     margin: 1em;
 }
@@ -96,7 +100,6 @@ address {
 	color: rgb(255, 255, 255);
 	padding: 1.5em;
     font-family: poppins, sans-serif;
-	font-weight: 00;
 	font-style: normal;
 }
 
