@@ -79,3 +79,29 @@ p {
     font-family: dair, serif;
     color: rgb (0, 0, 0);
 }
+
+.mainstory{
+    font-family: dair, serif;
+}
+
+.mainstory a{
+    font-family: itc-avant-garde-gothic-pro, sans-serif;
+    font-weight: 300;
+    color: rgb(150, 139, 150); 
+}
+
+.mainstory p{
+    font-family: dair, serif;
+    color: rgb (0, 0, 0);
+}
+
+.other p{
+    font-family: dair, serif;
+    color: rgb (0, 0, 0);
+}
+
+.other a{
+    font-family: itc-avant-garde-gothic-pro, sans-serif;
+    font-weight: 300;
+    color: rgb(150, 139, 150); 
+}
