@@ -1,0 +1,81 @@
+/*CSS document*/
+
+body {
+    background-color: rgb(250, 249, 246);
+}
+
+div.container {
+    max-width: 40em;
+    margin: auto;
+}
+
+img {
+    width: 100%;
+    margin: 1em 0em 0em 0em;
+    padding: 1em 0em 0em 0em;
+}
+
+figure {
+    width: 100%;
+    padding: 0em;
+    margin: 0em;
+}
+
+ul {
+    list-style-type: none;
+}
+
+nav ul{
+    border-bottom: 2px solid;
+    border-top: 2px solid; 
+    padding: 1em;
+    color:rgb(195, 172, 167);
+    text-align: center;
+}
+
+nav ul li {
+    padding: 0.5em;
+    font-family: dair, serif;
+    color: rgb(76, 79, 103);
+    display: inline;
+    text-transform: uppercase;
+}
+
+nav ul li a {
+    color:rgb(195, 172, 167);
+    text-decoration: none;
+}
+
+
+h2 {
+    font-family: itc-avant-garde-gothic-pro, sans-serif;
+    font-weight: 300;
+    color: rgb(150, 139, 150);
+}
+
+h3 {
+    font-family: itc-avant-garde-gothic-pro, sans-serif;
+    font-weight: 300;
+    color: rgb(150, 139, 150);    
+}
+
+h3:hover {
+	text-decoration: underline;
+}
+
+figcaption{
+     font-family: dair, serif;
+    color: rgb(195, 172, 167);
+    font-size: 0.9em;
+}
+
+section a {
+    color: rgb(76, 79, 103);
+    text-decoration: none;
+    max-width: 40em;
+}
+
+p {
+    font-family: dair, serif;
+    color: rgb (0, 0, 0);
+}
